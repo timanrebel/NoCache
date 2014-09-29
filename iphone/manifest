@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: Prevent iOS WebViews from caching anything.
+author: Timan Rebel
+license: MIT License
+copyright: Copyright (c) 2014 by Timan Rebel
+
+# these should not be edited
+name: NoCache
+moduleid: rebel.nocache
+guid: 0b074bdd-7196-40a5-8cc7-33bb01ec2bfd
+platform: iphone
+minsdk: 3.3.0.GA
